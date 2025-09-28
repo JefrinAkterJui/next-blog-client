@@ -30,7 +30,7 @@ export default function BlogCard({ post }: { post: any }) {
           </h3>
 
           <p className="text-gray-700 dark:text-gray-300 mb-4 line-clamp-3">
-            {post.content}
+            {post.contsnt}
           </p>
 
           <div className="flex items-center justify-between mb-4">
